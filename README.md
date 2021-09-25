@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Data Engineering, Visualisation, and Research. I also enjoy Website Development components such as UI, UX and SEO.
 - 🌱 I’m currently learning Python (especially Pandas, Matplotlib and other data science libraries), Java and Machine Learning.
 - 💞️ I’m looking to collaborate on Data Analytics, Software Development and Research projects
-- 📫 How to reach me:
+- 📫 How to reach me...
   Email: vjain306@gatech.edu
 
 <!---
